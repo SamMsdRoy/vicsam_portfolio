@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vicsam_portfolio/static/css/main.412edf9d.css",
+    "main.js": "/vicsam_portfolio/static/js/main.b3a283db.js",
+    "index.html": "/vicsam_portfolio/index.html",
+    "static/media/edpic.svg": "/vicsam_portfolio/static/media/edpic.13b10697f4971b54db452198ed879577.svg",
+    "main.412edf9d.css.map": "/vicsam_portfolio/static/css/main.412edf9d.css.map",
+    "main.b3a283db.js.map": "/vicsam_portfolio/static/js/main.b3a283db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412edf9d.css",
+    "static/js/main.b3a283db.js"
+  ]
+}
